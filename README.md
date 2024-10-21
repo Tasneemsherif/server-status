@@ -4,6 +4,7 @@
 ## Project Overview
 
 The **`server-stats.sh`** script is a simple utility designed to provide essential server performance statistics. It is intended to be run on any Linux server and offers key metrics that help in understanding the server’s resource utilization and performance.
+here is the project url: https://roadmap.sh/projects/server-stats
 
 ### Features
 - **CPU Usage**: Shows total CPU utilization.
